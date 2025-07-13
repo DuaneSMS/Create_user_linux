@@ -1,4 +1,3 @@
-Thank you for sharing the Bash script! Here’s a README file tailored for your createUser.sh script in the DuaneSMS/Create_user_linux repository.
 
 ---
 
@@ -89,5 +88,3 @@ Enter the full path to the public key file (e.g., ~/.ssh/id_rsa.pub): ~/.ssh/id_
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
-If you’d like more details or have custom requirements for the README, let me know!
